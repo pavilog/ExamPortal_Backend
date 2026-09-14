@@ -6,7 +6,7 @@ dist-tests/
 # Secrets and local configuration
 .env
 .env.*
-!.env.example
+.env.example
 
 # Test and tool output
 coverage/
