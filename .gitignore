@@ -1,0 +1,14 @@
+# Dependencies and compiled output
+node_modules/
+dist/
+dist-tests/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Test and tool output
+coverage/
+*.log
+.DS_Store
